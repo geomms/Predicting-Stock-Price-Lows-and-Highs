@@ -10,6 +10,7 @@
   - [Price Forecast](https://github.com/geomms/Mod4_Project/blob/master/Price%20Forecast.ipynb)
 
 ## Data used: Yahoo Finance library to pull stock data
+![Stock Chart](https://www.liberatedstocktrader.com/wp-content/uploads/2009/03/NFLX-Basic-Chart-Volume-696x356.jpg)
 
 ## Project Objective:
 - Forecast prices for better trades
