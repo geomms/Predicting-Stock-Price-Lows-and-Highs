@@ -1,21 +1,25 @@
 # Module 4 Project - Stock Predictions
 
 ### Goals
+The purpose of stock predictions is to outperform the market. This means generating returns that would be greater than simply buying and holding a security. In order to accomplish this we can try to:
+
 - Predict ideal entry and exit points for trading securities
-  - [Ichimoku Cloud](https://github.com/geomms/Mod4_Project/blob/master/Ichimoku%20Cloud.ipynb)
-  - [Logistic Regression](https://github.com/geomms/Mod4_Project/blob/master/Logistic%20Regression%20Model.ipynb) 
 - Forecast future prices
-  - [SVR Model](https://github.com/geomms/Mod4_Project/blob/master/SVR%20Model.ipynb)
-  - [ARIMA Model](https://github.com/geomms/Mod4_Project/blob/master/ARIMA%20Model.ipynb)
-  - [Price Forecast](https://github.com/geomms/Mod4_Project/blob/master/Price%20Forecast.ipynb)
 
 ## Data used: Yahoo Finance library to pull stock data
 ![Stock Chart](https://www.liberatedstocktrader.com/wp-content/uploads/2009/03/NFLX-Basic-Chart-Volume-696x356.jpg)
 
 ## Project Objective:
-- Forecast prices for better trades
-- If forecasting is not accurate, predict entries and exits or long and short positions
 
+- Forecast prices for better trades
+  - [SVR Model](https://github.com/geomms/Mod4_Project/blob/master/SVR%20Model.ipynb)
+  - [ARIMA Model](https://github.com/geomms/Mod4_Project/blob/master/ARIMA%20Model.ipynb)
+  - [Price Forecast](https://github.com/geomms/Mod4_Project/blob/master/Price%20Forecast.ipynb)
+  
+- If forecasting is not accurate, predict entries and exits or long and short positions
+  - [Ichimoku Cloud](https://github.com/geomms/Mod4_Project/blob/master/Ichimoku%20Cloud.ipynb)
+  - [Logistic Regression](https://github.com/geomms/Mod4_Project/blob/master/Logistic%20Regression%20Model.ipynb) 
+  
 ### Metrics Used:
 - Cross validation score mean
 
