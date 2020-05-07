@@ -32,18 +32,20 @@
 ### Solutions:
 - Selecting the right features and checking score results of models
 - Use noncolinear technical indicators to improve accuracy and reduce overfitting
+- Complicated problems do not always have to have complicated solutions
 
-#### Recommendations for further developments:
-- More stocks to analyze
-- Predict long/short positions closer to trade time vs. backtesting
-  
 ## Project Findings:
 - Using more features did not necessarily imporve the model
 - Trying to forecast future prices was difficult
 - More optimal to find long/short entries
 - Model predicted 85% accuracy for short positions, 68% for long positions
-- Features and models are better at choosing shorts rather than longs.
+- Features and models are better at choosing shorts rather than longs
+- Other models were not used as they were less accurate or provided returns worse than buying and holding
 
-## Further Analysis
+## Recommendations for further developments:
+- Develop other models to improve accuracy
+- More stocks to analyze
+- Predict long/short positions closer to trade time vs. backtesting
+  ### Further Analysis
  - Improve accuracy for long entries
  - Build algorithm using predictions to execute trades
