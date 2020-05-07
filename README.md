@@ -1,5 +1,7 @@
 # Module 4 Project - Stock Predictions
 
+##[Presentation](https://github.com/geomms/Mod4_Project/blob/master/Picking%20Bearish%20Entries.pdf)
+
 ### Goals
 The purpose of stock predictions is to outperform the market. This means generating returns that would be greater than simply buying and holding a security. In order to accomplish this we can try to:
 
