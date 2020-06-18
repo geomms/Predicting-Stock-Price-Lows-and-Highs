@@ -53,6 +53,7 @@ The purpose of stock predictions is to outperform the market. This means generat
 - More stocks to analyze
 - Predict long/short positions closer to trade time vs. backtesting
 - Build web scraper to scan for ideal stocks
+- Similar model for opions trading?
   ### Further Analysis
  - Improve accuracy for long entries
  - Build algorithm using predictions to execute trades
