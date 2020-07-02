@@ -1,4 +1,4 @@
-# Module 4 Project - Stock Predictions
+# Module 4 Project - Stock Buy/Sell Predictions
 
 ## [Presentation](https://github.com/geomms/Mod4_Project/blob/master/Picking%20Bearish%20Entries.pdf)
 
