@@ -5,7 +5,7 @@
 ### Goals
 The purpose of stock predictions is to outperform the market. This means generating returns that would be greater than simply buying and holding a security. In order to accomplish this we can try to:
 
-- Predict ideal entry and exit points for trading securities
+- Predict ideal entry and exit points for trading securities.
 - Forecast future prices
 
 ## Data used: Yahoo Finance library to pull stock data
