@@ -23,7 +23,7 @@ The purpose of stock predictions is to outperform the market. This means generat
   - [Logistic Regression](https://github.com/geomms/Mod4_Project/blob/master/Logistic%20Regression%20Model.ipynb) 
   
 ### Metrics Used:
-- Cross validation score mean
+- Cross-validation score mean
 
 ### Methods Used
 * Statistics
